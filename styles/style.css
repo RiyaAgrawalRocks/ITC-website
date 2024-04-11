@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  color: #77b0aa;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px #135d66;
+ }
+
+h2 {
+  color:#135d66;
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 1px #77b0aa;
+}
+
+p {
+  color:  #003c43;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #e3fef7;
+}
+
+/*body {
+  width: 1200px;
+  margin: 50px auto;
+  background-color:  #1C1678;
+  padding: 40px 40px 40px 40px;
+  border: 5px solid black;
+}*/
+
+img {
+  display: block;
+  margin: 0 auto;
+}
