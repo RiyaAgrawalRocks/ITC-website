@@ -50,7 +50,7 @@ p,li {
 }
 
 html {
-  background-color: #e3fef7;
+  background: linear-gradient(180deg, #003c43, 1%, #e3fef7);
 }
 
 /*body {
@@ -66,9 +66,4 @@ img {
   margin: 0 auto;
   width: 200px;
   height: 200px;
-}
-
-.linear-gradient
-{
- background: linear-gradient(180deg, #003c43, 1%, #e3fef7);
 }
