@@ -34,7 +34,15 @@ h2 {
   text-shadow: 2px 2px 1px #77b0aa;
 }
 
-p {
+h3 {
+  color:#003c43;
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 5px 0;
+}
+
+p,li {
   color:  #003c43;
   font-size: 20px;
   line-height: 1.5;
@@ -56,4 +64,11 @@ html {
 img {
   display: block;
   margin: 0 auto;
+  width: 200px;
+  height: 200px;
+}
+
+.linear-gradient
+{
+ background: linear-gradient(180deg, #003c43, 1%, #e3fef7);
 }
